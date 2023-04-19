@@ -1,0 +1,2 @@
+/Volumes/Work/iOS/soapernote/Note/Resources/models/ggml-base.bin filter=lfs diff=lfs merge=lfs -text
+Note/Resources/models/ggml-base.bin filter=lfs diff=lfs merge=lfs -text

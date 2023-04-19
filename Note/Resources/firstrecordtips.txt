@@ -1,0 +1,6 @@
+
+- Do not manually turn off your screen during transcription. You can dim your screen brightness if you run into battery life issues.
+- Place your phone as close to your patient as possible. Excessive background noise may interfere with transcription quality.
+- The note generation process typically takes 10-20 seconds. Please be patient.
+- Once the note is generated, hit the QR button and scan the QR code on www.soaper.ai/qr to transfer it to your desktop computer.
+- The app is HIPAA compliant, including the transcription, note generating, and note transfer processes, but please exercise caution in how you store and use sensitive PHI information. 
